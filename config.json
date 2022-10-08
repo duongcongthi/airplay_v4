@@ -1,4 +1,5 @@
 { 
   "disableOnboarding": false,
-  "disableClosePurchase": false
+  "disableClosePurchase": false,
+  "goMainAirPlay": false
 }
